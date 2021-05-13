@@ -29,4 +29,4 @@ https://glad.dav1d.de/
         Navigate to C: > GL > glfw > lib-vc2019
      
       Additional Dependencies:
-      Add opengl32.lib; glfw3.lib; glfw3dll.lib
+      Add opengl32.lib; glfw3.lib; glfw3dll.lib; glew32.lib
